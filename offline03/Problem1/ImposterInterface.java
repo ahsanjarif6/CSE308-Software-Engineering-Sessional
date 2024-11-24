@@ -1,0 +1,3 @@
+interface ImposterInterface {
+    void maintenance();
+}

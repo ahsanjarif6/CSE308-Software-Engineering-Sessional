@@ -1,0 +1,3 @@
+interface CrewmateInterface{
+    void maintenance();
+}
